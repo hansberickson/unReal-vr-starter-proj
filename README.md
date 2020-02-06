@@ -5,3 +5,5 @@ includes [VR Expansion Plugin](https://bitbucket.org/mordentral/vrexpansionplugi
 
 - Run .uproject
 - If asked to rebuild project, yes
+
+test
